@@ -6,6 +6,8 @@ I'm [Ajay D'Souza](https://ajaydsouza.com/). I've been blogging since 2003 and b
 
 The plugins help visitors find more of your content: related posts, popular posts, on-site search and a knowledge base. Each has a free version on WordPress.org, and most have a Pro version with more features.
 
+For the full list, including utility plugins, developer libraries and retired projects, see [webberzone.github.io](https://webberzone.github.io).
+
 ## Plugins
 
 | Plugin | What it does |
@@ -24,13 +26,14 @@ The plugins help visitors find more of your content: related posts, popular post
 ## For developers
 
 - [webberzone.dev](https://webberzone.dev): hooks, functions and classes for every plugin, generated from the source on each release
-- [Code library](https://github.com/WebberZone/code-library): snippets for extending WebberZone plugins
-- [Settings API](https://github.com/WebberZone/Settings_API): the tabbed settings class the plugins use
+- [Code library](https://webberzone.github.io/code-library/): snippets for extending WebberZone plugins
+- [Settings API](https://webberzone.github.io/Settings_API/): the tabbed settings class the plugins use
 - [Tutorials](https://github.com/WebberZone/tutorials): code from tutorials on the WebberZone blog
 
 ## Links
 
 - [webberzone.com](https://webberzone.com)
+- [webberzone.github.io](https://webberzone.github.io)
 - [Support](https://webberzone.com/support/)
 - [Plugins on WordPress.org](https://profiles.wordpress.org/webberzone/#content-plugins)
 - [Ajay's blog](https://ajaydsouza.com)
